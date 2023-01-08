@@ -1,0 +1,23 @@
+server:
+  servlet:
+    context-path: /
+    encoding:
+      charset: UTF-8
+      enabled: true
+      force: true
+  port: 8080
+
+spring:
+  datasource:
+    url: jdbc:h2:tcp://localhost/~/Desktop/etc/db/test
+    username: sa
+    password: 1234
+    driver-class-name: org.h2.Driver
+  jpa:
+    database: h2
+    hibernate:
+      naming:
+        physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+      ddl-auto: create-drop
+    generate-ddl: true
+    show-sql: true
