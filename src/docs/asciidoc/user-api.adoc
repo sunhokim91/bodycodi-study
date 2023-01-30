@@ -1,0 +1,74 @@
+= new-admin API Guide
+ifndef::snippets[]
+:snippets: ../../../target/generated-snippets
+endif::[]
+:doctype: book
+:icons: font
+:source-highlighter: highlightjs
+:toc: left
+:toclevels: 4
+:sectlinks:
+:operation-curl-request-title: Example request
+:operation-http-response-title: Example response
+
+[[overview]]
+= 개요
+
+
+[[overview-http-verbs]]
+== HTTP Method
+
+|===
+| Method | Description
+
+| `GET`
+| 리소스를 가져올 때 사용
+
+| `POST`
+| 새 리소스를 만들 때 사용
+
+| `PUT`
+| 기존 리소스를 수정할 때 사용
+
+| `PATCH`
+| 기존 리소스의 일부를 수정할 때 사용
+
+| `DELETE`
+| 기존 리소스를 삭제할 떄 사용
+|===
+
+[[overview-http-status-codes]]
+== HTTP 상태 코드
+
+|===
+| Status Code | Description
+
+| `200 OK`
+| 요청에 대한 성공적 응답
+
+| `400 Bad Request`
+| 잘못된 요청을 보낸 경우에 대한 응답
+
+| `404 Not Found`
+| 요청한 리소스를 찾을 수 없을 경우에 대한 응답
+
+| `500 Internal Server Error`
+| 요청에 대한 서버 오류를 나타내는 응답
+|===
+
+[[api]]
+= User API Documents
+
+[[user-save]]
+=== 유저 정보 저장 API
+
+`POST` 유저 정보를 저장합니다. +
+
+operation::user-save[snippets='http-request,curl-request,request-fields,request-body,http-response']
+
+[[user-find]]
+=== 유저 조회 API
+
+`GET` 유저 정보를 조회합니다. +
+
+operation::user-find[snippets='http-request,curl-request,request-fields,request-body,http-response,response-body']
