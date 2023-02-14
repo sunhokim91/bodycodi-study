@@ -1,0 +1,3 @@
+## Webflux 테스트
+POST http://localhost:8080/webflux/call
+Content-Type: application/json
