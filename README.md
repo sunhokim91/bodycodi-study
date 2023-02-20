@@ -6,3 +6,5 @@
 * webflux: 스프링 webflux 학습용 브랜치입니다.
 * spring-annotation: 스프링 annotation 학습용 브랜치입니다.
 * spring-aop: 스프링 AOP(Aspect Oriented Programming) 학습용 브랜치입니다.
+* java-stream: 자바 스트림 내용 공부한 학습용 브랜치입니다.
+* spring-mybatis: mybatis 학습용 브랜치입니다.
