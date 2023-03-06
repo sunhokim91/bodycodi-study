@@ -1,0 +1,402 @@
+##
+POST http://localhost:8080/data/binding/yes
+Content-Type: application/json
+
+[
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  },
+  {
+    "username": "programmer",
+    "mobile": "123-456-7890"
+  }
+]
