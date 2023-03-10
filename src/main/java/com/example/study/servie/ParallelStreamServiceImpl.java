@@ -22,7 +22,7 @@ public class ParallelStreamServiceImpl implements ParallelStreamService {
             result += i;
         }
 
-        return 0;
+        return result;
     }
 
     @Override
