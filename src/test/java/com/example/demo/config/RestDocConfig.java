@@ -18,7 +18,7 @@ public class RestDocConfig {
                         modifyUris()
                                 .scheme("http")
                                 .host("localhost")
-                                .removePort())
+                                .port(8080))
                 .withResponseDefaults(prettyPrint());
     }
 }
